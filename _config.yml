@@ -12,7 +12,7 @@ display:
   career-profile: true
   education: true
   professional-experience: true
-  publications: false
+  publications: true
   presentations: true
   skills: true
 
