@@ -6,40 +6,40 @@ contact:
     # Sidebar links
     email: ksray2@ncsu.edu # full email address
     phone: 845-480-0261 # phone number
-    website: # your url (e.g. student.github.io), do not add http://
+    website: #ksray2.github.io # your url (e.g. student.github.io), do not add http://
     linkedin: keliaray # your linkedin username
     github: ksray2 # your github username
-    gitlab: # your gitlab username
-    bitbucket: # your bitbucket username
-    twitter: # your twitter handle wraped in quote (e.g. '@toddstoffer')
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
     orcid: ksray2@ncsu.edu # your orcid ID number
-    osf: # your Open Science Framework username
+    
 
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: MS in Technical Communication
+      university: North Carolina State University
+      time: 2018 - 2020
 
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
-
+    - degree: BS in Health Information Management
+      university: City University of New York School of Professional Studies
+      time: 2015 - 2018
+      
+    - degree: Diploma in Surgical Technology
+      School: Eastwick College  
+      time: 2007 - 2009
+      
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 5
-
-      - name: Javascript & jQuery
-        level: 4
-
-      - name: Angular
+      - name: Github & Jekyll
         level: 3
+
+      - name: Adobe Premiere 
+        level: 3
+
+      - name: Markdown
+        level: 2
 
       - name: HTML5 & CSS
         level: 2
 
-      - name: Ruby on Rails
+      - name: Javascript
         level: 1
