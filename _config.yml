@@ -12,8 +12,8 @@ display:
   career-profile: true
   education: true
   professional-experience: true
-  publications: true
-  presentations: true
+  publications: false
+  presentations: false
   skills: true
 
 collections:
