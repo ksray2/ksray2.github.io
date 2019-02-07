@@ -13,7 +13,7 @@ display:
   education: true
   professional-experience: true
   publications: false
-  presentations: false
+  presentations: true
   skills: true
 
 collections:
