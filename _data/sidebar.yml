@@ -29,17 +29,17 @@ skills:
     title: Advanced writing skills &amp; proficiency
 
     toolset:
-      - name: Github & Jekyll
+      - name: Github & Github Desktop
         level: 3
 
       - name: Adobe Premiere 
         level: 3
 
+      - name: XML
+        level: 3
+
       - name: Markdown
         level: 2
 
-      - name: HTML5 & CSS
+      - name: HTML5
         level: 2
-
-      - name: Javascript
-        level: 1
