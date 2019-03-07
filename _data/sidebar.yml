@@ -58,4 +58,10 @@ skills:
         level: 4
         
       - name: Design Thinking
+        level: 3
+       
+      - name: User Experience (UX)
+        level: 4
+        
+      - name: Project Management
         level: 4
