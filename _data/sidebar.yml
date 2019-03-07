@@ -26,7 +26,7 @@ education:
       time: 2007 - 2009
       
 skills:
-    title: Technical Skills
+    title: Skills
 
     toolset:
       - name: Github DITA & Markdown
@@ -43,21 +43,24 @@ skills:
 
       - name: Agile & Iterative  
         level: 2
-        
-      - name: Communication
-        level: 4
+            
+      - name: Instructional Design
+        level: 3
         
       - name: Collaboration
         level: 4  
         
       - name: Rhetorical Language
-        level: 4
+        level: 3
         
-      - name: Design Thinking
+      - name: Andragogy
         level: 3
        
       - name: User Experience (UX)
         level: 4
         
       - name: Project Management
-        level: 4
+        level: 3
+        
+      - name: Risk & Compliance
+        level: 4   
