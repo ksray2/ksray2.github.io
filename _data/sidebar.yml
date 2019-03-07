@@ -26,20 +26,36 @@ education:
       time: 2007 - 2009
       
 skills:
-    title: Skills
+    title: Technical Skills
 
     toolset:
-      - name: Github & Github Desktop
+      - name: Github DITA & Markdown
+        level: 3
+
+      - name: Oxygen XML & Java
+        level: 3
+
+      - name: Adobe Illustrator
         level: 3
 
       - name: Adobe Premiere 
-        level: 3
-
-      - name: XML
-        level: 3
-
-      - name: Markdown
         level: 2
 
-      - name: HTML5
+      - name: Agile & Iterative  
         level: 2
+        
+skills:
+    title: Interpersonal Skills
+
+    toolset:
+      - name: Communication
+        level: 4
+        
+      - name: Collaboration
+        level: 4  
+        
+      - name: Rhetorical Language
+        level: 4
+        
+      - name: Design Thinking
+        level: 4
