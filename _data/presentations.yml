@@ -13,6 +13,11 @@
   link: "/assets/Technical_Description_Mechanical_Pencil_Portfolio.pdf"
   summary: "This technical description explains the usage of a mechanical pencil."
   
+- title: Predictive Online Shopping Infograph
+  year: 2017
+  link: "/assets/Quan201_infograph.jpg"
+  summary: "This infograph provides quantitative results of Team Shoppers' online shopping habits."
+  
 - title: Spring Garden Project
   year: 2017
   link: "/assets/COM210_2017_Spring_Garden_Project.pdf"
@@ -25,8 +30,7 @@
   
 - title: Health Information Management Essay
   year: 2016
-  link: "/assets/HIM_Essay
-  .pdf"
+  link: "/assets/HIM_Essay.pdf"
   summary: "This essay examines how HIM measures can improve healthcare outcomes."
   
 - title: Health Information Management Interviews 
