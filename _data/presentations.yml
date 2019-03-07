@@ -23,10 +23,16 @@
   link: "/assets/FLM_Final.pdf"
   summary: "This document gives a summary of two movies watched during this semester, The Crying Game and The Motorcycle Diaries."
   
-- title: HIM Interview 
+- title: Health Information Management Essay
   year: 2016
+  link: "/assets/HIM_Essay
+  .pdf"
+  summary: "This essay examines how HIM measures can improve healthcare outcomes."
+  
+- title: Health Information Management Interviews 
+  year: 2015
   link: "/assets/HIM_Term_Paper_2015.pdf"
-  summary: "This interview is with two healthcare professionals about current issues facing patient care."
+  summary: "These interview showcase two healthcare professionals give their opinions on current issues facing patient care."
   
 - title: Proposal
   year: 2015
