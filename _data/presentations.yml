@@ -1,3 +1,8 @@
+- title: Introductory Video
+  year: 2019
+  link: "/assets/Intro_video_bio.ppsx"
+  summary: "This brief introductory video presents my professional interests, passions, and values."
+
 - title: Gamification Conference Paper
   year: 2018
   link: "/assets/ENG_512_Project_3_Final.pdf"
@@ -16,12 +21,7 @@
 - title: Mechanical Description
   year: 2018
   link: "/assets/Technical_Description_Mechanical_Pencil_Portfolio.pdf"
-  summary: "This technical description explains the usage of a mechanical pencil."
-  
-- title: Project Charter
-  year: 2017
-  link: "/assets/Project_Charter.pdf"
-  summary: "This project charter states the project exists and provides the project manager with written authority to begin work." 
+  summary: "This technical description explains the usage of a mechanical pencil." 
   
 - title: Predictive Online Shopping Infograph
   year: 2017
