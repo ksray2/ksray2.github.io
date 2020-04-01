@@ -1,6 +1,6 @@
 contact:
     name: Kelia S Ray
-    summary: Technical Writer
+    summary: Technical Communicator
     avatar: bio.png
 
     # Sidebar links
@@ -32,17 +32,17 @@ skills:
       - name: Github DITA & Markdown
         level: 3
 
-      - name: Oxygen XML & Java
+      - name: CCS & Java
         level: 3
 
-      - name: Adobe Illustrator
-        level: 3
+      - name: Talent Development
+        level: 4
 
-      - name: Adobe Premiere 
-        level: 2
+      - name: Medical Writing 
+        level: 4
 
-      - name: Agile & Iterative  
-        level: 2
+      - name: Agile & Iterative Project Management 
+        level: 4
             
       - name: Instructional Design
         level: 3
@@ -51,7 +51,7 @@ skills:
         level: 4  
         
       - name: Rhetorical Language
-        level: 3
+        level: 2
         
       - name: Andragogy
         level: 4
@@ -59,11 +59,11 @@ skills:
       - name: User Experience (UX)
         level: 4
         
-      - name: Project Management
-        level: 3
+      - name: Blended Learning
+        level: 4
         
-      - name: Risk & Compliance
+      - name: Workforce Development
         level: 4   
         
-      - name: Benchmarking
+      - name: Mentoring
         level: 3  
