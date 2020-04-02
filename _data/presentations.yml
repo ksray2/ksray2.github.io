@@ -1,9 +1,19 @@
-- title: Introductory Video
+- title: Healthy Ageing Training Series
   year: 2019
-  link: "/assets/Intro_video_bio.ppsx"
-  summary: "This brief introductory video presents my professional interests, passions, and values."
+  link: "/assets/Capstone_Defense.pdf"
+  summary: "This paper aims to demonstrate the use of blended learning in a healthy ageing training series."
 
-- title: Gamification Conference Paper
+- title: Corporate Healthcare Project Management Plan
+  year: 2019
+  link: "/assets/ProjectPlan_Submitted.pdf"
+  summary: "This project plan was designed to produce a healthcare training series called Silver Learning."
+  
+- title: FMS Project Management Plan 
+  year: 2018
+  link: "/assets/Project_Charter.pdf"
+  summary: "This project plan aims to propose the implementation of a two-phase file management software (FMS) installation at a small private law firm in New York."
+  
+- title: Gamification Conference Paper  
   year: 2018
   link: "/assets/ENG_512_Project_3_Final.pdf"
   summary: "This study aims to evaluate the literature on gamification for adult and health informatics education, and the effectiveness of gamification experiences on the enculturation of graduate students into responsible and responsive health professionals. The evaluative framework of this study is Knowles’ Andragogy from the perspective of Merriam and Bierema in Adult Learning: Linking Theory and Practice. Lastly, I investigate how technical communicators can make an important contribution to the game development industry and why the field of technical communication gains from close involvement with the emerging industry of gamification technology."
@@ -13,7 +23,7 @@
   link: "/assets/Let_the_Games_Begin.pdf"
   summary: "This poster presentation is a visual demonstration of my gamification conference paper."
 
-- title: Gamification Slide Presentation
+- title: Gamification Conference Presentation
   year: 2018
   link: "/assets/Gamification_Health_Education.pdf"
   summary: "This video presentation is an media demonstration of my gamification conference paper."
@@ -22,21 +32,11 @@
   year: 2018
   link: "/assets/Technical_Description_Mechanical_Pencil_Portfolio.pdf"
   summary: "This technical description explains the usage of a mechanical pencil." 
-  
-- title: Predictive Online Shopping Infograph
-  year: 2017
-  link: "/assets/Quan201_infograph.jpeg"
-  summary: "This infograph provides quantitative results of Team Shoppers' online shopping habits."
-  
+   
 - title: Spring Garden Project
   year: 2017
   link: "/assets/COM210_2017_Spring_Garden_Project.pdf"
   summary: "This project outlines a community garden in Hamilton Heights, NY."
-  
-- title: The World of Film
-  year: 2016
-  link: "/assets/FLM_Final.pdf"
-  summary: "This document gives a summary of two movies watched during this semester, The Crying Game and The Motorcycle Diaries."
   
 - title: Health Information Management Essay
   year: 2016
@@ -47,12 +47,6 @@
   year: 2015
   link: "/assets/HIM_Term_Paper_2015.pdf"
   summary: "These interview showcase two healthcare professionals give their opinions on current issues facing patient care."
-  
-- title: Proposal
-  year: 2015
-  link: "/assets/HIM_Healthy_Eating.pdf"
-  summary: "This proposal seeks to implement the Recipe Rules Program for children who are predisposed to chronic illness and disease due to genetics or social environment."
-  
  
 
 
