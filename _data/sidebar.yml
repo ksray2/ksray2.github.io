@@ -5,7 +5,6 @@ contact:
 
     # Sidebar links
     email: ksray2@ncsu.edu # full email address
-    phone: 845-480-0261 # phone number
     website: ksray2.wordpress.ncsu.edu # your url (e.g. student.github.io), do not add http://
     linkedin: ksydneyray # your linkedin username
     github: ksray2 # your github username
@@ -49,10 +48,7 @@ skills:
         
       - name: Collaboration
         level: 4  
-        
-      - name: Rhetorical Language
-        level: 2
-        
+               
       - name: Andragogy
         level: 4
        
