@@ -28,10 +28,10 @@ skills:
     title: Skills
 
     toolset:
-      - name: Github DITA & Markdown
-        level: 3
+      - name: Adobe InDesign
+        level: 4
 
-      - name: CCS & Java
+      - name: CCS, Java, HTML
         level: 3
 
       - name: Talent Development
@@ -59,7 +59,7 @@ skills:
         level: 4
         
       - name: Workforce Development
-        level: 4   
+        level: 3   
         
       - name: Mentoring
-        level: 3  
+        level: 4  
